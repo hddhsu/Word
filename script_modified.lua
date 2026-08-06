@@ -143,7 +143,7 @@ logConn = LogService.MessageOut:Connect(function(message, type)
     end
 end)
 
-local url = "https://raw.githubusercontent.com/hddhsu/Wordsy/refs/heads/main/combined_words.txt"
+local url = "https://raw.githubusercontent.com/hddhsu/Word/refs/heads/main/combined_words.txt"
 local fileName = "combined_words.txt"
 
 -- Temporary Loading UI
